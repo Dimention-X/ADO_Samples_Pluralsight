@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Samples_Pluralsight", "ADO_Samples_Pluralsight\ADO_Samples_Pluralsight.csproj", "{6E8530DA-1285-4F3E-9DE7-FC1C6A2FC652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_Demo", "ASP_Demo\ASP_Demo.csproj", "{93EA71E7-FC56-4B93-B292-48EA92EF8ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{0B18238A-A2C2-451D-B558-862BA5BEFB47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6E8530DA-1285-4F3E-9DE7-FC1C6A2FC652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8530DA-1285-4F3E-9DE7-FC1C6A2FC652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8530DA-1285-4F3E-9DE7-FC1C6A2FC652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EA71E7-FC56-4B93-B292-48EA92EF8ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA71E7-FC56-4B93-B292-48EA92EF8ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA71E7-FC56-4B93-B292-48EA92EF8ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA71E7-FC56-4B93-B292-48EA92EF8ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B18238A-A2C2-451D-B558-862BA5BEFB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B18238A-A2C2-451D-B558-862BA5BEFB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B18238A-A2C2-451D-B558-862BA5BEFB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B18238A-A2C2-451D-B558-862BA5BEFB47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

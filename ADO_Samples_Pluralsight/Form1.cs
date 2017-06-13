@@ -16,5 +16,10 @@ namespace ADO_Samples_Pluralsight
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string Connstring = DataLayer.DB.ConnectionString;
+        }
     }
 }
